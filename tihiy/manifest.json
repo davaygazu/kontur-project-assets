@@ -1,0 +1,274 @@
+[
+  {
+    "wood": "dark-walnut",
+    "roof": "black",
+    "variant": "base",
+    "status": "draft",
+    "desktop": "webp/desktop/base-dark-walnut-roof-black-v1.webp",
+    "mobile": "webp/mobile/base-dark-walnut-roof-black-v1.webp"
+  },
+  {
+    "wood": "walnut",
+    "roof": "black",
+    "variant": "base",
+    "status": "draft",
+    "desktop": "webp/desktop/base-walnut-roof-black-v1.webp",
+    "mobile": "webp/mobile/base-walnut-roof-black-v1.webp"
+  },
+  {
+    "wood": "honey-oak",
+    "roof": "black",
+    "variant": "base",
+    "status": "draft",
+    "desktop": "webp/desktop/base-honey-oak-roof-black-v1.webp",
+    "mobile": "webp/mobile/base-honey-oak-roof-black-v1.webp"
+  },
+  {
+    "wood": "smoky-oak",
+    "roof": "black",
+    "variant": "base",
+    "status": "draft",
+    "desktop": "webp/desktop/base-smoky-oak-roof-black-v1.webp",
+    "mobile": "webp/mobile/base-smoky-oak-roof-black-v1.webp"
+  },
+  {
+    "wood": "eucalyptus",
+    "roof": "black",
+    "variant": "base",
+    "status": "draft",
+    "desktop": "webp/desktop/base-eucalyptus-roof-black-v1.webp",
+    "mobile": "webp/mobile/base-eucalyptus-roof-black-v1.webp"
+  },
+  {
+    "wood": "gray-beige",
+    "roof": "black",
+    "variant": "base",
+    "status": "draft",
+    "desktop": "webp/desktop/base-gray-beige-roof-black-v1.webp",
+    "mobile": "webp/mobile/base-gray-beige-roof-black-v1.webp"
+  },
+  {
+    "wood": "sage",
+    "roof": "black",
+    "variant": "base",
+    "status": "draft",
+    "desktop": "webp/desktop/base-sage-roof-black-v1.webp",
+    "mobile": "webp/mobile/base-sage-roof-black-v1.webp"
+  },
+  {
+    "wood": "sand",
+    "roof": "black",
+    "variant": "base",
+    "status": "draft",
+    "desktop": "webp/desktop/base-sand-roof-black-v1.webp",
+    "mobile": "webp/mobile/base-sand-roof-black-v1.webp"
+  },
+  {
+    "wood": "noble-green",
+    "roof": "black",
+    "variant": "base",
+    "status": "approved",
+    "desktop": "webp/desktop/base-noble-green-roof-black-v1.webp",
+    "mobile": "webp/mobile/base-noble-green-roof-black-v1.webp"
+  },
+  {
+    "wood": "ivory",
+    "roof": "black",
+    "variant": "base",
+    "status": "draft",
+    "desktop": "webp/desktop/base-ivory-roof-black-v1.webp",
+    "mobile": "webp/mobile/base-ivory-roof-black-v1.webp"
+  },
+  {
+    "wood": "anthracite",
+    "roof": "black",
+    "variant": "base",
+    "status": "draft",
+    "desktop": "webp/desktop/base-anthracite-roof-black-v1.webp",
+    "mobile": "webp/mobile/base-anthracite-roof-black-v1.webp"
+  },
+  {
+    "wood": "black",
+    "roof": "black",
+    "variant": "base",
+    "status": "draft",
+    "desktop": "webp/desktop/base-black-roof-black-v1.webp",
+    "mobile": "webp/mobile/base-black-roof-black-v1.webp"
+  },
+  {
+    "wood": "light-beige",
+    "roof": "black",
+    "variant": "base",
+    "status": "draft",
+    "desktop": "webp/desktop/base-light-beige-roof-black-v1.webp",
+    "mobile": "webp/mobile/base-light-beige-roof-black-v1.webp"
+  },
+  {
+    "wood": "stain",
+    "roof": "black",
+    "variant": "base",
+    "status": "draft",
+    "desktop": "webp/desktop/base-stain-roof-black-v1.webp",
+    "mobile": "webp/mobile/base-stain-roof-black-v1.webp"
+  },
+  {
+    "wood": "graphite",
+    "roof": "black",
+    "variant": "base",
+    "status": "draft",
+    "desktop": "webp/desktop/base-graphite-roof-black-v1.webp",
+    "mobile": "webp/mobile/base-graphite-roof-black-v1.webp"
+  },
+  {
+    "wood": "blue-gray",
+    "roof": "black",
+    "variant": "base",
+    "status": "draft",
+    "desktop": "webp/desktop/base-blue-gray-roof-black-v1.webp",
+    "mobile": "webp/mobile/base-blue-gray-roof-black-v1.webp"
+  },
+  {
+    "wood": "natural-wood",
+    "roof": "black",
+    "variant": "base",
+    "status": "draft",
+    "desktop": "webp/desktop/base-natural-wood-roof-black-v1.webp",
+    "mobile": "webp/mobile/base-natural-wood-roof-black-v1.webp"
+  },
+  {
+    "wood": "dark-walnut",
+    "roof": "black",
+    "variant": "terrace-balcony",
+    "status": "draft",
+    "desktop": "webp/desktop/terrace-balcony-dark-walnut-roof-black-v1.webp",
+    "mobile": "webp/mobile/terrace-balcony-dark-walnut-roof-black-v1.webp"
+  },
+  {
+    "wood": "walnut",
+    "roof": "black",
+    "variant": "terrace-balcony",
+    "status": "draft",
+    "desktop": "webp/desktop/terrace-balcony-walnut-roof-black-v1.webp",
+    "mobile": "webp/mobile/terrace-balcony-walnut-roof-black-v1.webp"
+  },
+  {
+    "wood": "honey-oak",
+    "roof": "black",
+    "variant": "terrace-balcony",
+    "status": "draft",
+    "desktop": "webp/desktop/terrace-balcony-honey-oak-roof-black-v1.webp",
+    "mobile": "webp/mobile/terrace-balcony-honey-oak-roof-black-v1.webp"
+  },
+  {
+    "wood": "smoky-oak",
+    "roof": "black",
+    "variant": "terrace-balcony",
+    "status": "draft",
+    "desktop": "webp/desktop/terrace-balcony-smoky-oak-roof-black-v1.webp",
+    "mobile": "webp/mobile/terrace-balcony-smoky-oak-roof-black-v1.webp"
+  },
+  {
+    "wood": "eucalyptus",
+    "roof": "black",
+    "variant": "terrace-balcony",
+    "status": "draft",
+    "desktop": "webp/desktop/terrace-balcony-eucalyptus-roof-black-v1.webp",
+    "mobile": "webp/mobile/terrace-balcony-eucalyptus-roof-black-v1.webp"
+  },
+  {
+    "wood": "gray-beige",
+    "roof": "black",
+    "variant": "terrace-balcony",
+    "status": "draft",
+    "desktop": "webp/desktop/terrace-balcony-gray-beige-roof-black-v1.webp",
+    "mobile": "webp/mobile/terrace-balcony-gray-beige-roof-black-v1.webp"
+  },
+  {
+    "wood": "sage",
+    "roof": "black",
+    "variant": "terrace-balcony",
+    "status": "draft",
+    "desktop": "webp/desktop/terrace-balcony-sage-roof-black-v1.webp",
+    "mobile": "webp/mobile/terrace-balcony-sage-roof-black-v1.webp"
+  },
+  {
+    "wood": "sand",
+    "roof": "black",
+    "variant": "terrace-balcony",
+    "status": "draft",
+    "desktop": "webp/desktop/terrace-balcony-sand-roof-black-v1.webp",
+    "mobile": "webp/mobile/terrace-balcony-sand-roof-black-v1.webp"
+  },
+  {
+    "wood": "noble-green",
+    "roof": "black",
+    "variant": "terrace-balcony",
+    "status": "approved",
+    "desktop": "webp/desktop/terrace-balcony-noble-green-roof-black-v1.webp",
+    "mobile": "webp/mobile/terrace-balcony-noble-green-roof-black-v1.webp"
+  },
+  {
+    "wood": "ivory",
+    "roof": "black",
+    "variant": "terrace-balcony",
+    "status": "draft",
+    "desktop": "webp/desktop/terrace-balcony-ivory-roof-black-v1.webp",
+    "mobile": "webp/mobile/terrace-balcony-ivory-roof-black-v1.webp"
+  },
+  {
+    "wood": "anthracite",
+    "roof": "black",
+    "variant": "terrace-balcony",
+    "status": "draft",
+    "desktop": "webp/desktop/terrace-balcony-anthracite-roof-black-v1.webp",
+    "mobile": "webp/mobile/terrace-balcony-anthracite-roof-black-v1.webp"
+  },
+  {
+    "wood": "black",
+    "roof": "black",
+    "variant": "terrace-balcony",
+    "status": "draft",
+    "desktop": "webp/desktop/terrace-balcony-black-roof-black-v1.webp",
+    "mobile": "webp/mobile/terrace-balcony-black-roof-black-v1.webp"
+  },
+  {
+    "wood": "light-beige",
+    "roof": "black",
+    "variant": "terrace-balcony",
+    "status": "draft",
+    "desktop": "webp/desktop/terrace-balcony-light-beige-roof-black-v1.webp",
+    "mobile": "webp/mobile/terrace-balcony-light-beige-roof-black-v1.webp"
+  },
+  {
+    "wood": "stain",
+    "roof": "black",
+    "variant": "terrace-balcony",
+    "status": "draft",
+    "desktop": "webp/desktop/terrace-balcony-stain-roof-black-v1.webp",
+    "mobile": "webp/mobile/terrace-balcony-stain-roof-black-v1.webp"
+  },
+  {
+    "wood": "graphite",
+    "roof": "black",
+    "variant": "terrace-balcony",
+    "status": "draft",
+    "desktop": "webp/desktop/terrace-balcony-graphite-roof-black-v1.webp",
+    "mobile": "webp/mobile/terrace-balcony-graphite-roof-black-v1.webp"
+  },
+  {
+    "wood": "blue-gray",
+    "roof": "black",
+    "variant": "terrace-balcony",
+    "status": "draft",
+    "desktop": "webp/desktop/terrace-balcony-blue-gray-roof-black-v1.webp",
+    "mobile": "webp/mobile/terrace-balcony-blue-gray-roof-black-v1.webp"
+  },
+  {
+    "wood": "natural-wood",
+    "roof": "black",
+    "variant": "terrace-balcony",
+    "status": "draft",
+    "desktop": "webp/desktop/terrace-balcony-natural-wood-roof-black-v1.webp",
+    "mobile": "webp/mobile/terrace-balcony-natural-wood-roof-black-v1.webp"
+  }
+]
