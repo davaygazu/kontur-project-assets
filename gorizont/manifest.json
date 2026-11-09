@@ -1,0 +1,26 @@
+[
+  {
+    "wood": "graphite",
+    "roof": "black",
+    "variant": "base",
+    "status": "draft",
+    "desktop": "webp/desktop/base-graphite-roof-black-v1.webp",
+    "mobile": "webp/mobile/base-graphite-roof-black-v1.webp"
+  },
+  {
+    "wood": "natural-wood",
+    "roof": "black",
+    "variant": "base",
+    "status": "draft",
+    "desktop": "webp/desktop/base-natural-wood-roof-black-v1.webp",
+    "mobile": "webp/mobile/base-natural-wood-roof-black-v1.webp"
+  },
+  {
+    "wood": "noble-green",
+    "roof": "black",
+    "variant": "base",
+    "status": "draft",
+    "desktop": "webp/desktop/base-noble-green-roof-black-v1.webp",
+    "mobile": "webp/mobile/base-noble-green-roof-black-v1.webp"
+  }
+]
